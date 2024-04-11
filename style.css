@@ -1,0 +1,35 @@
+#nav{
+ display: flex;
+ justify-content: space-evenly; 
+ text-decoration: none; 
+ color: black;
+ font-size: small;
+
+}
+.find{
+    display: flex;
+    text-align: center;
+    margin-left: 10%;
+}
+#imla{
+    display: flex;
+}
+.button{
+    padding: 2px;
+    background-color: rgb(191, 248, 229);
+    color: aliceblue;
+    border-radius: 20px;
+    height: 10%;
+ } 
+ #input{
+display: flex;
+border-radius: 100px;
+border: solid;
+gap: 20px;
+ }
+ .follow{
+    display: flex;
+ } 
+ @media screen and {min-width: 280px; and {max-width: ;}
+    
+ } 
