@@ -30,6 +30,9 @@ gap: 20px;
  .follow{
     display: flex;
  } 
+ #trust{
+background-color: lightblue;
+ }
  @media screen and {min-width: 280px; and {max-width: ;}
     
  } 
